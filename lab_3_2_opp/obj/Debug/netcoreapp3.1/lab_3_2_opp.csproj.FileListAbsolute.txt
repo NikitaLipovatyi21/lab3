@@ -1,0 +1,14 @@
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\bin\Debug\netcoreapp3.1\lab_3_2_opp.exe
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\bin\Debug\netcoreapp3.1\lab_3_2_opp.deps.json
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\bin\Debug\netcoreapp3.1\lab_3_2_opp.runtimeconfig.json
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\bin\Debug\netcoreapp3.1\lab_3_2_opp.runtimeconfig.dev.json
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\bin\Debug\netcoreapp3.1\lab_3_2_opp.dll
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\bin\Debug\netcoreapp3.1\lab_3_2_opp.pdb
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\obj\Debug\netcoreapp3.1\lab_3_2_opp.csproj.AssemblyReference.cache
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\obj\Debug\netcoreapp3.1\lab_3_2_opp.GeneratedMSBuildEditorConfig.editorconfig
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\obj\Debug\netcoreapp3.1\lab_3_2_opp.AssemblyInfoInputs.cache
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\obj\Debug\netcoreapp3.1\lab_3_2_opp.AssemblyInfo.cs
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\obj\Debug\netcoreapp3.1\lab_3_2_opp.csproj.CoreCompileInputs.cache
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\obj\Debug\netcoreapp3.1\lab_3_2_opp.dll
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\obj\Debug\netcoreapp3.1\lab_3_2_opp.pdb
+C:\KNUTE2\OOP\lab_3_oop\lab_3_2_opp\obj\Debug\netcoreapp3.1\lab_3_2_opp.genruntimeconfig.cache
